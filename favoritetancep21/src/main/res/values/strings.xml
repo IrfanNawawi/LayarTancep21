@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FAVORITE TANCEP 21</string>
+    <string name="movie_name">Wonder Woman</string>
+    <string name="movie_rating">7.1</string>
+    <string name="movie_vote">630 vote</string>
+    <string name="movie_date">23 Jan 2019</string>
+    <string name="movie_language">en</string>
+    <string name="movie_overview">overview</string>
+</resources>

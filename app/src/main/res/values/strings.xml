@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LAYAR TANCEP 21</string>
+    <string name="movie_name">Wonder Woman</string>
+    <string name="movie_rating">7.1</string>
+    <string name="movie_vote">630 vote</string>
+    <string name="movie_date">23 Jan 2019</string>
+    <string name="movie_language">en</string>
+    <string name="movie_overview">overview</string>
+    <string name="title_now">Now Playing</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="action_language">Change Language</string>
+    <string name="action_found">You favorite movies not found</string>
+    <string name="action_favorite">Favorite added</string>
+    <string name="action_remove">Remove favorite</string>
+    <string name="action_setting">Setting Reminder</string>
+    <string name="action_tancep">My Favorite Tancep</string>
+    <string name="title_activity_tes">TesActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

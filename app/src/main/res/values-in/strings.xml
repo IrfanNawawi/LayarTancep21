@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LAYAR TANCEP 21</string>
+    <string name="movie_name">Emak Kuat</string>
+    <string name="movie_rating">7.1</string>
+    <string name="movie_vote">630 poling</string>
+    <string name="movie_date">23 Jan 2019</string>
+    <string name="movie_language">en</string>
+    <string name="movie_overview">Deskripsi</string>
+    <string name="title_now">Sedang Tayang</string>
+    <string name="title_upcoming">Yang Akan Datang</string>
+    <string name="title_favorite">Kesukaan</string>
+    <string name="title_search">Pencarian</string>
+    <string name="action_language">Ganti bahasa</string>
+    <string name="action_found">Film kesukaan kamu tidak ada</string>
+    <string name="action_favorite">Favorit ditambahkan</string>
+    <string name="action_setting">Setting Pengingat</string>
+    <string name="action_remove">Hapus favorit</string>
+    <string name="action_tancep">My Favorite Tancep</string>
+</resources>
